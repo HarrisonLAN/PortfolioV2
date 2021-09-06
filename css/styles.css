@@ -1,0 +1,30 @@
+.main-nav{
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    background-color: grey;
+    color: white;
+}
+.main-content{
+    display: flex;
+    width: 85%;
+    background-color: black;
+    margin: auto;
+}
+.left-content{
+    width: 50%;
+    background-color: white;
+}
+.right-content{
+    width: 50%;
+    background-color: purple;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    text-align: center;
+  }
